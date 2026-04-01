@@ -1,4 +1,4 @@
-# Wood Defect Q2
+# Wood Defect
 
 Codebase for wood surface defect detection experiments on a large-scale in-domain dataset and the VNWoodKnot target-domain benchmark.
 
